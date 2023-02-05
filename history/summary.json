@@ -4,19 +4,19 @@
     "url": "https://brottsplatskartan.se",
     "icon": "https://icons.duckduckgo.com/ip3/brottsplatskartan.se.ico",
     "slug": "brottsplatskartan",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
-    "time": 1438,
-    "timeDay": 1438,
-    "timeWeek": 1438,
-    "timeMonth": 1438,
-    "timeYear": 1438,
+    "status": "up",
+    "uptime": "95.94%",
+    "uptimeDay": "95.94%",
+    "uptimeWeek": "95.94%",
+    "uptimeMonth": "95.94%",
+    "uptimeYear": "95.94%",
+    "time": 1396,
+    "timeDay": 1396,
+    "timeWeek": 1396,
+    "timeMonth": 1396,
+    "timeYear": 1396,
     "dailyMinutesDown": {
-      "2023-02-05": 1
+      "2023-02-05": 17
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.texttv.nu.ico",
     "slug": "text-tv-api",
     "status": "up",
-    "uptime": "91.77%",
-    "uptimeDay": "91.77%",
-    "uptimeWeek": "91.77%",
-    "uptimeMonth": "91.77%",
-    "uptimeYear": "91.77%",
+    "uptime": "86.15%",
+    "uptimeDay": "86.15%",
+    "uptimeWeek": "86.15%",
+    "uptimeMonth": "86.15%",
+    "uptimeYear": "86.15%",
     "time": 1023,
     "timeDay": 1023,
     "timeWeek": 1023,
     "timeMonth": 1023,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2023-02-05": 20
+      "2023-02-05": 36
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://kartbilder.brottsplatskartan.se/",
     "icon": "https://icons.duckduckgo.com/ip3/kartbilder.brottsplatskartan.se.ico",
     "slug": "tileserver-sweden",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 596,
-    "timeDay": 596,
-    "timeWeek": 596,
-    "timeMonth": 596,
-    "timeYear": 596,
+    "status": "up",
+    "uptime": "96.09%",
+    "uptimeDay": "96.09%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "96.09%",
+    "uptimeYear": "96.09%",
+    "time": 564,
+    "timeDay": 564,
+    "timeWeek": 564,
+    "timeMonth": 564,
+    "timeYear": 564,
     "dailyMinutesDown": {
-      "2023-02-05": 1
+      "2023-02-05": 16
     }
   },
   {
@@ -136,19 +136,19 @@
     "url": "https://germany-tileserver.brottsplatskartan.se/",
     "icon": "https://icons.duckduckgo.com/ip3/germany-tileserver.brottsplatskartan.se.ico",
     "slug": "tileserver-germany",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 599,
-    "timeDay": 599,
-    "timeWeek": 599,
-    "timeMonth": 599,
-    "timeYear": 599,
+    "status": "up",
+    "uptime": "96.21%",
+    "uptimeDay": "96.21%",
+    "uptimeWeek": "96.21%",
+    "uptimeMonth": "96.21%",
+    "uptimeYear": "96.21%",
+    "time": 567,
+    "timeDay": 567,
+    "timeWeek": 567,
+    "timeMonth": 567,
+    "timeYear": 567,
     "dailyMinutesDown": {
-      "2023-02-05": 0
+      "2023-02-05": 16
     }
   }
 ]
