@@ -7,6 +7,8 @@ sites:
     url: https://brottsplatskartan.se
   - name: TextTV.nu
     url: https://texttv.nu
+  - name: Text TV API
+    url: https://api.texttv.nu/api/get/100?app=upptime
   - name: Was ist passiert
     url: https://wasistpassiert.com/
   - name: Simple History
