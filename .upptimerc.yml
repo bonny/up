@@ -3,16 +3,20 @@ owner: bonny # Your GitHub organization or username, where this repository lives
 repo: up # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Brottsplatskartan
+    url: https://brottsplatskartan.se
   - name: TextTV.nu
     url: https://texttv.nu
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Was ist passiert
+    url: https://wasistpassiert.com/
+  - name: Simple History
+    url: https://simple-history.com/
+  - name: Simple History docs
+    url: https://docs.simple-history.com/
+  - name: Tileserver Sweden
+    url: https://kartbilder.brottsplatskartan.se/
+  - name: Tileserver Germany
+    url: https://germany-tileserver.brottsplatskartan.se/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
