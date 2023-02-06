@@ -19,6 +19,10 @@ sites:
     url: https://kartbilder.brottsplatskartan.se/
   - name: Tileserver Germany
     url: https://germany-tileserver.brottsplatskartan.se/
+  - name: Eskapism
+    url: https://eskapism.se/
+  - name: Newbie Tech
+    url: https://newbietech.io/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
