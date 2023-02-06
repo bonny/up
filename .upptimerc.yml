@@ -35,7 +35,7 @@ status-website:
   introMessage: Uptime for my web sites.
   navbar:
     - title: Status
-      href: /
+      href: /up/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
