@@ -48,8 +48,8 @@
     "status": "up",
     "uptime": "81.90%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "43.53%",
-    "uptimeMonth": "87.01%",
+    "uptimeWeek": "43.46%",
+    "uptimeMonth": "86.99%",
     "uptimeYear": "81.90%",
     "time": 1065,
     "timeDay": 1139,
@@ -57,7 +57,7 @@
     "timeMonth": 1060,
     "timeYear": 1065,
     "dailyMinutesDown": {
-      "2023-05-31": 954,
+      "2023-05-31": 961,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
@@ -93,8 +93,8 @@
     "status": "up",
     "uptime": "86.28%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "43.53%",
-    "uptimeMonth": "87.01%",
+    "uptimeWeek": "43.46%",
+    "uptimeMonth": "86.99%",
     "uptimeYear": "86.28%",
     "time": 889,
     "timeDay": 731,
@@ -102,7 +102,7 @@
     "timeMonth": 898,
     "timeYear": 889,
     "dailyMinutesDown": {
-      "2023-05-31": 954,
+      "2023-05-31": 961,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
@@ -131,9 +131,9 @@
     "slug": "was-ist-passiert",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "91.89%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "91.41%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.93%",
     "time": 953,
     "timeDay": 916,
@@ -141,7 +141,7 @@
     "timeMonth": 920,
     "timeYear": 953,
     "dailyMinutesDown": {
-      "2023-05-31": 117
+      "2023-05-31": 124
     }
   },
   {
@@ -151,9 +151,9 @@
     "slug": "simple-history",
     "status": "up",
     "uptime": "91.19%",
-    "uptimeDay": "91.92%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "91.45%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "91.19%",
     "time": 899,
     "timeDay": 968,
@@ -161,7 +161,7 @@
     "timeMonth": 870,
     "timeYear": 899,
     "dailyMinutesDown": {
-      "2023-05-31": 116,
+      "2023-05-31": 123,
       "2023-02-23": 403,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
@@ -184,9 +184,9 @@
     "slug": "simple-history-docs",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "91.96%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "91.48%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.25%",
     "time": 712,
     "timeDay": 783,
@@ -194,7 +194,7 @@
     "timeMonth": 696,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2023-05-31": 116,
+      "2023-05-31": 123,
       "2023-02-08": 499,
       "2023-02-07": 623
     }
@@ -287,19 +287,19 @@
     "url": "https://eskapism.se/",
     "icon": "https://icons.duckduckgo.com/ip3/eskapism.se.ico",
     "slug": "eskapism",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "91.99%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "91.52%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.93%",
-    "time": 1019,
-    "timeDay": 929,
-    "timeWeek": 877,
+    "time": 1018,
+    "timeDay": 932,
+    "timeWeek": 883,
     "timeMonth": 952,
-    "timeYear": 1019,
+    "timeYear": 1018,
     "dailyMinutesDown": {
-      "2023-05-31": 115
+      "2023-05-31": 122
     }
   },
   {
