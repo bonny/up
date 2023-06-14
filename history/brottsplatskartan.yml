@@ -1,7 +1,7 @@
 url: https://brottsplatskartan.se
-status: up
-code: 200
-responseTime: 1101
-lastUpdated: 2023-06-13T23:12:36.522Z
+status: down
+code: 502
+responseTime: 3310
+lastUpdated: 2023-06-14T06:50:10.749Z
 startTime: Sun Feb 05 2023 12:26:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
